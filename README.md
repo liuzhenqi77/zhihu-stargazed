@@ -7,7 +7,7 @@
 - [Activity sorted by time](#activity-sorted-by-time)
 
 
-## 🎞 Activity sorted by time
+## Activity sorted by time
 
 ### 2019-10
 
